@@ -1,8 +1,8 @@
-# New Power Method for Eigenvalue Problems
+# Supporting Files for New Power Method
 
-This repository provides supporting files used in our publication: I Wayan Sudiarta and Hadi Susanto (2022), "New Power iteration for Solving Eigenvalue Problems", ArXiv publications.
+This repository provides supporting files for our publication: I Wayan Sudiarta and Hadi Susanto (2022), "New Power Method for Solving Eigenvalue Problems", ArXiv publications.
 
-The new power method is used to determine eigenvalues and eigenvectors of the eigen equation:
+The new power method is used to determine eigenvalues and eigenvectors of the eigenequation:
 
 $$ \hat{H} \psi = E \psi $$
 
